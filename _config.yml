@@ -107,7 +107,7 @@ content:
         caption: 2018 - 2022
         sub_title: BSc (Hons) Economics
         quote: >
-        In 1964, founder J.R. “Dick” Sargent created a Department with the first few professors and graduate students. He envisioned a department that would use, and train its students to use, the critical mathematical tools needed for analysis of complex economic issues – a legacy that continues to the present day.
+          In 1964, founder J.R. “Dick” Sargent created a Department with the first few professors and graduate students. He envisioned a department that would use, and train its students to use, the critical mathematical tools needed for analysis of complex economic issues – a legacy that continues to the present day.
         description: | # this will include new lines to allow paragraphs
           During my time at Warwick I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
           I spent my free time as establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
@@ -127,7 +127,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
