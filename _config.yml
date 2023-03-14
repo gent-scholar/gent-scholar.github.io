@@ -1,33 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: gent-scholar/gent-scholar.github.io 
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Eric Decker
+title: Research Fellow and Research Assistant
+email: eric.decker@hotmail.com
+website: https://github.com/gent-scholar/gent-scholar.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+twitter_username: decker__eric
+github_username:  gent-scholar
+linkedin_username: 1eric0decker1
 
 # Additional icon links
 additional_links:
@@ -48,16 +38,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, my name is Eric and I am a Research Fellow and Research Assistant. As well as researching in social and health sciences myself and in a team I also have experience in computer vision and neural networks. I have worked and volunteered at a number of organisations gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>Stata</mark>, <mark>Tableau</mark>, and <mark>Matlab</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Computer vision change detection
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -71,43 +61,68 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+      - layout: top-middle
+        title: Bachelor Thesis: Real-time data collection of Austrian diesel prices
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Launchpad.AI
+        link: https://www.fellowship.ai/
+        # link_text: fellowship.ai
+        sub_title: Research Fellow
+        caption: January 2023 - Present
+        quote: >
+          Solving 21st century problem of land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks for satellite image recognition managing a team of 5.
+        description: | # this will include new lines to allow paragraphs
+            The Hawaii Land Trust wants to monitor its land for environmental changes through satellite imagery.  I lead a team of 5 people and enjoy trying different deep learning methodologies to detect the land-use changes.
+      - layout: left
+        title: University of Salzburg and Paracelsus Medical University of Salzburg
+        link:
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Quantitative Research Assistant
+        caption: Jun 2021 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Warwick University
+        caption: 2018 - 2022
+        sub_title: BSc (Hons) Economics
+        quote: >In 1964, founder J.R. “Dick” Sargent created a Department with the first few professors and graduate students, and, in 1965, the first undergraduate students joined them. Sargent approached the task of creating Warwick Economics with bold, specific goals in mind. He envisioned a department, not the college-style of campus organization that was a popular trend at the time. And he envisioned a department that would use, and train its students to use, the critical mathematical tools needed for analysis of complex economic issues – a legacy that continues to the present day.
+         
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Warwick I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          I spent my free time as establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in AI and machine learning some of my other interests and hobbies are:
+      - Volunteering at an orphanage
+      - Writing poetry
+      - Photography
+      - Sailing
+      - Sewing
+      
+      
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
