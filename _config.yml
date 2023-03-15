@@ -1,6 +1,6 @@
 # Site
 repository: gent-scholar/gent-scholar.github.io 
-favicon: images/favicon.ico
+favicon: images/favicon.icon
 
 # Content configuration version
 version: 2
@@ -9,7 +9,7 @@ version: 2
 name: Eric Decker
 title: Research Fellow and Research Assistant
 email: eric.decker@hotmail.com
-website: https://github.com/gent-scholar/gent-scholar.github.io
+website: https://linktr.ee/ericdecker
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,9 +21,9 @@ linkedin_username: 1eric0decker1
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: ericdecker
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://linktr.ee/ericdecker
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
