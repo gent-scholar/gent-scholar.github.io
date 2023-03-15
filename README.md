@@ -1,2 +1,2 @@
 # gent-scholar.github.io
-Eric Decker's experiences
+Eric Decker's projects & experiences
