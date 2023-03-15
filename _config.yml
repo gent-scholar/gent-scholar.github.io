@@ -40,7 +40,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Eric and I am a Research Fellow and Research Assistant. As well as researching in social and health sciences myself and in a team I also have experience in computer vision and neural networks. I have worked and volunteered at a number of organisations gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, and <mark>Stata</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>Stata</mark>, and <mark>Deep Learning</mark> 
 
 content:
   - title: Projects # Title for the section
@@ -66,16 +66,16 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  gent-scholar/fuel-prices
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/gent-scholar/fuel-prices
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          A novel approach of mining consumer diesel prices to create more consumer transparency and oversight of price impacts.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project to contribute to an increased consumer price transparency for Austrian diesel prices using <mark>Python</mark> and <mark>Google Maps</mark> as well as the Austrian regulator's website. My key learnings here are: API accessing and webscraping data, compiling a time-series index.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -115,8 +115,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and machine learning some of my other interests and hobbies are:
-      - Volunteering at an orphanage
-      - Writing poetry
+      - Volunteering at an Orphanage
+      - Writing Poetry
       - Photography
       - Sailing
       - Sewing
@@ -127,7 +127,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References on request (Override references text)
+references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
