@@ -40,7 +40,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Eric and I am a Research Fellow and Research Assistant. As well as researching in social and health sciences myself and in a team I also have experience in computer vision and neural networks. I have worked and volunteered at a number of organisations gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>Stata</mark>, <mark>Tableau</mark>, and <mark>Matlab</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, and <mark>Stata</mark>
 
 content:
   - title: Projects # Title for the section
@@ -48,12 +48,12 @@ content:
     content:
       - layout: top-middle
         title: Computer vision change detection
-        link: github.com/sproogen
+        link: https://github.com/gent-scholar/FellowshipAI_Change_Detection_Project
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: gent-scholar/FellowshipAI_Change_Detection_Project
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/gent-scholar/FellowshipAI_Change_Detection_Project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
