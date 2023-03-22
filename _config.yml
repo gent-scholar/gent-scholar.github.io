@@ -76,6 +76,23 @@ content:
           A novel approach of mining consumer diesel prices to create more consumer transparency and oversight of price impacts.
         description: | # this will include new lines to allow paragraphs
           I started this project to contribute to an increased consumer price transparency for Austrian diesel prices using <mark>Python</mark> and <mark>Google Maps</mark> as well as the Austrian regulator's website. My key learnings here are: API accessing and webscraping data, compiling a time-series index.
+      - layout: top-middle
+        title: Free trade, labour rights, and migration
+        link: https://www.researchgate.net/profile/Eric_Decker2
+        # link_text: Project Website
+        additional_links:
+          - title:  ResearchGate
+            icon: fab fa-researchgate
+            url: https://www.researchgate.net/profile/Eric_Decker2
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Combining the fields of economics, sociology, and law to analyse the interaction of NAALC, the NAFTA labour side agreement.
+        description: | # this will include new lines to allow paragraphs
+          I started this project to contribute to the interdisciplinary research of human rights and macroeconomics by undertaking an extensive <mark>Qualitative Research</mark>. I focussed on NAALC, NAFTA's labour side agreement by uniting the disciplines of sociology for migration, macreconomics for free trade, and law for labour rights. My key learnings here are: free trade and labour law within NAFTA and Central/North American Migration.
+          I am grateful to have been able to present my group and individual research at: <mark>International Conference for Undergraduate Research, Coventry, UK</mark>, <mark>British Conference for Undergraduate Research, Leeds, UK</mark>, and at the <mark>Undergraduate Research Support Scheme, Coventry, UK</mark>. I am grateful to my supervisors for their guidance and expertise: Assoc. Prof. Dr. Stefania Paredes Fuentes, University of Warwick and Dr. Christina Wagner Faegri, ITAM
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
