@@ -103,9 +103,9 @@ content:
         sub_title: Research Fellow
         caption: January 2023 - Present
         quote: >
-          Solving 21st century problem of land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks for satellite image recognition managing a team of 5.
+          Solving 21st century problem of land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks for  managing a team of 5.
         description: | # this will include new lines to allow paragraphs
-            The Hawaii Land Trust wants to monitor its land for environmental changes through satellite imagery.  I lead a team of 5 people and enjoy trying different deep learning methodologies to detect the land-use changes.
+            The Hawaii Land Trust wants to monitor its land for environmental changes through satellite imagery.  I lead a team of 5 people applying a <mark>Siamese CNN</mark> to detect the land-use changes.
       - layout: left
         title: University of Salzburg and Paracelsus Medical University of Salzburg
         link:
@@ -113,9 +113,13 @@ content:
         sub_title: Quantitative Research Assistant
         caption: Jun 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            I am involved in a 4 part process. I undertook experts interview surveys for over 40 medical eperts in DACH countries.
+            Designed balanced and weighted online surveys for 1,500 non-expert surveys in DACH countries.
+            Collated, cleaned, and analysed data about attituded to telemedicine in <mark>R</mark>.
+            Drafted final report of mixed methods study in English and German leading a team of two.
+            My main learnings are: methodology for survey design for data gathering, data analysis in R.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -133,13 +137,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and machine learning some of my other interests and hobbies are:
       - Volunteering at an Orphanage
-      - Writing Poetry
+      - Writing Poetry in German, English, Spanish, and French
       - Photography
       - Sailing
       - Sewing
       
      
-      Look at this cool image  
+     # Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
