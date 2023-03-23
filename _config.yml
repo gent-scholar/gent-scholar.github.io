@@ -60,8 +60,9 @@ content:
         quote: >
           Research Fellowship in Data Science & Machine Learning working on computer vision change detection with satellite imagery data for the Hawaii Land Trust.
         description: | # this will include new lines to allow paragraphs
-          I started this project leading a team of 4 for a project of <mark>computer vision</mark> for the Hawaii Land Trust. I implemented a <mark>deep convolutional neural network</mark> for satellite image recognition of <mark>land-use change detection</mark>.
-          I presented a research paper and submitted weekly research paper reports for the reading group. Further, I co-ordinated my project's weekly demo day presentations by collating information, creating slides, presenting and clarifying issues to senior management.
+          I am leading a team of 4 for a project of <mark>computer vision</mark> for the Hawaii Land Trust and implemented a <mark>deep convolutional neural network</mark> for satellite image recognition of <mark>land-use change detection</mark>.
+          Moreover, I presented a research paper and submitted weekly research paper reports for the reading group.
+          Further, I co-ordinated my project's weekly demo day presentations by collating information, creating slides, presenting and clarifying issues to senior management.
           My main learnings are: computer vision, change detection using satellite imagery data, convolutional neural networks
           
       - layout: top-middle
