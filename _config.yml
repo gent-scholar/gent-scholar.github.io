@@ -40,7 +40,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Eric and I am a Research Fellow and Research Assistant. As well as researching in social and health sciences myself and in a team I also have experience in computer vision and neural networks. I have worked and volunteered at a number of organisations gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>Deep Learning</mark> and <mark>Computer vision</mark>. 
+  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>Convolutional Neural Networks</mark> and <mark>Computer vision</mark>. 
 
 content:
   - title: Projects # Title for the section
@@ -60,8 +60,10 @@ content:
         quote: >
           Research Fellowship in Data Science & Machine Learning working on computer vision change detection with satellite imagery data for the Hawaii Land Trust.
         description: | # this will include new lines to allow paragraphs
-          I started this project leading a team of 5 for a project of <mark>computer vision</mark> for the Hawaii Land Trust. I implemented a <mark>deep convolutional neural network</mark> for satellite image recognition of <mark>land-use change detection</mark>.
-          My key learnings are: computer vision, change detection using satellite imagery data, convolutional neural networks
+          I started this project leading a team of 4 for a project of <mark>computer vision</mark> for the Hawaii Land Trust. I implemented a <mark>deep convolutional neural network</mark> for satellite image recognition of <mark>land-use change detection</mark>.
+          I presented a research paper and submitted weekly research paper reports for the reading group. Further, I co-ordinated my project's weekly demo day presentations by collating information, creating slides, presenting and clarifying issues to senior management.
+          My main learnings are: computer vision, change detection using satellite imagery data, convolutional neural networks
+          
       - layout: top-middle
         title: Bachelor Thesis - Real-time data collection of Austrian diesel prices
         link: gent-scholar/fuel-prices
@@ -70,13 +72,15 @@ content:
           - title:  gent-scholar/fuel-prices
             icon: fab fa-github
             url: https://github.com/gent-scholar/fuel-prices
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          # - title:  Github page for project
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #   url: Link to project
         quote: >
           A novel approach of mining consumer diesel prices to create more consumer transparency and oversight of price impacts.
         description: | # this will include new lines to allow paragraphs
-          I started this project to contribute to an increased consumer price transparency for Austrian diesel prices using <mark>Python</mark> and <mark>Google Maps</mark> as well as the Austrian regulator's website. My key learnings here are: API accessing and webscraping data, compiling a time-series index.
+          I started this project to contribute to a new data gathering methodology for consumer oil indexes and work towards increased consumer price transparency by collecting Austrian diesel prices real-time using <mark>Python</mark> and <mark>Google Maps API</mark> as well as the Austrian regulator's E-Control website.
+          My main learnings are: API accessing and webscraping data, compiling a time-series index, spatial analysis
+          
       - layout: top-middle
         title: Free trade, labour rights, and migration
         link: https://www.researchgate.net/profile/Eric_Decker2
@@ -91,10 +95,12 @@ content:
         quote: >
           A field work research exchange undertaken at ITAM, Mexico City & University of Warwick, UK combining the fields of economics, sociology, and law to analyse the interaction of NAALC, the NAFTA labour side agreement.
         description: | # this will include new lines to allow paragraphs
-          The project contributed to the interdisciplinary research of human rights and macroeconomics by undertaking an extensive <mark>Qualitative Research</mark>. I focussed on NAALC, NAFTA's labour side agreement by uniting the disciplines of sociology for migration, macreconomics for free trade, and law for labour rights. My key learnings here are: free trade and labour law within NAFTA and Central/North American migration.
-          The results of my group and individual research were presented at: <mark>International Conference for Undergraduate Research, Coventry, UK</mark>, <mark>British Conference for Undergraduate Research, Leeds, UK</mark>, and at the <mark>Undergraduate Research Support Scheme, Coventry, UK</mark>.
+          The project contributed to the interdisciplinary research of human rights and macroeconomics by undertaking an extensive <mark>Qualitative Research</mark>.
+          I focussed on NAALC, NAFTA's labour side agreement by uniting the disciplines of sociology for migration, macreconomics for free trade, and law for labour rights.
+          The results were presented at: <mark>International Conference for Undergraduate Research, Coventry, UK</mark>, <mark>British Conference for Undergraduate Research, Leeds, UK</mark>, and at the <mark>Undergraduate Research Support Scheme, Coventry, UK</mark>.
           I am grateful for the research funding granted by the <mark>Undergraduate Research Support Scheme</mark> by the University of Warwick to undertake the research exchange to ITAM, Mexico City.
-          Great thanks go to my supervisors for their guidance and expertise: Assoc. Prof. Dr. Stefania Paredes Fuentes, University of Warwick and Dr. Christina Wagner Faegri, ITAM.
+          Many thanks go to my supervisors for their guidance and expertise: Assoc. Prof. Dr. Stefania Paredes Fuentes, University of Warwick and Dr. Christina Wagner Faegri, ITAM.
+          My main learnings are: free trade and labour law within NAFTA, Central/North American migration
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,7 +108,7 @@ content:
       - layout: left
         title: Launchpad.AI
         link: https://www.fellowship.ai/
-        # link_text: fellowship.ai
+        link_text: fellowship.ai
         sub_title: Research Fellow
         caption: January 2023 - Present
         quote: >
@@ -112,7 +118,7 @@ content:
       - layout: left
         title: University of Salzburg and Paracelsus Medical University of Salzburg
         link:
-        # link_text: boringcompany.com
+        link_text: Work in Progress
         sub_title: Quantitative Research Assistant
         caption: Jun 2021 - Present
         quote: >
@@ -123,6 +129,22 @@ content:
             Collated, cleaned, and analysed data about attituded to telemedicine in <mark>R</mark>.
             Drafted final report of mixed methods study in English and German leading a team of two.
             My main learnings are: methodology for survey design for data gathering, data analysis in R.
+            
+      - layout: left
+        title: University of Warwick, Department of Economics
+        link: https://github.com/Najuh/3_code
+        link_text: Unemployment/Self-Employment South Africa - Work in Progress
+        sub_title: Research Assistant
+        caption: July 2022 - Dec 2022
+        quote: >
+          Evolving understanding of high unemployment and low self-employment puzzle in South Africa through an historical lens on spatial mining data under Apartheid South Africa.
+        description: | # this will include new lines to allow paragraphs
+            I was involved in 3 stage process in working with historical mining data.
+            First, Identified microeconometric instrumental variable strategies for explaining contemporary high unemployment and low self-emplyoment puzzle.
+            Then, I visualised innovatively spatial data and maps using <mark>QGIS</mark> and <mark>R</mark>.
+            Finally, I applied econometric spatial inference South African historical spatial mining data utilising <mark>GitHub</mark> for version control and R for first-stage regressions in 2 least squares regressions.
+            My main learnings are: spatial data analysis in R, visualisation of spatial data using R and QGIS, version control using Github, instrumental variable identification strategy
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -133,8 +155,9 @@ content:
         quote: >
           In 1964, founder J.R. “Dick” Sargent created a Department with the first few professors and graduate students. He envisioned a department that would use, and train its students to use, the critical mathematical tools needed for analysis of complex economic issues – a legacy that continues to the present day.
         description: | # this will include new lines to allow paragraphs
-          During my time at Warwick I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent my free time as establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
+          During my time at Warwick I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
+          My courses most relevant to my work included amongst others neural networks, machine learning, advanced macroeconometrics, quality of social science data, time-series econometrics, microeconometrics, mathematical statistics, and game theory.
+          I spent my free time establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -145,7 +168,6 @@ content:
       - Sailing
       - Sewing
       
-     
      # Look at this cool image  
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
