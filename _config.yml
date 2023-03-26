@@ -179,22 +179,40 @@ content:
             Then, I visualised innovatively spatial data and maps using <mark>QGIS</mark> and <mark>R</mark>.
             Finally, I applied econometric spatial inference South African historical spatial mining data utilising <mark>GitHub</mark> for version control and R for first-stage regressions in 2 least squares regressions.
             My main learnings are: spatial data analysis in R, visualisation of spatial data using R and QGIS, version control using Github, instrumental variable identification strategy
-            
+   
+  -  title: Conference Presentations # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: middle
+        title: British Conference for Undergraduate Research (BCUR), Leeds, GB
+        caption: 13-April-2021
+        sub_title: Focus: Free trade, labour rights, and migration
+        
+      - layout: middle
+        title: 10 Year Anniversary of Economy for the Common Good, Salzburg, AT
+        caption: 10-October-2020
+        sub_title: Focus: Work for pluralism in economics with Rethinking Economics International
+        
+      - layout: middle
+        title: International Conference for Undergraduate Research (ICUR), Coventry, GB
+        caption: 24-September-2019
+        sub_title: Focus: Group presentation; Macroeconomics and human rights
+        
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Warwick University
+        title: Warwick University and year abroad at University of Salzburg
         caption: 2018 - 2022
         sub_title: BSc (Hons) Economics
         quote: >
           In 1964, founder J.R. “Dick” Sargent created a Department with the first few professors and graduate students. He envisioned a department that would use, and train its students to use, the critical mathematical tools needed for analysis of complex economic issues – a legacy that continues to the present day.
         description: | # this will include new lines to allow paragraphs
-          During my time at Warwick I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
+          During my time at Warwick and a year abroad at the University of Salzburg I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
           My courses most relevant to my work included amongst others neural networks, machine learning, advanced macroeconometrics, quality of social science data, time-series econometrics, microeconometrics, mathematical statistics, and game theory.
           I spent my free time establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
 
-- title: A Little More About Me
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and machine learning some of my other interests and hobbies are:
