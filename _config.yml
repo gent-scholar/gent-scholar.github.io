@@ -185,17 +185,17 @@ content:
       - layout: middle
         title: British Conference for Undergraduate Research (BCUR), Leeds, GB
         caption: 13-April-2021
-        sub_title: Focus: Free trade, labour rights, and migration
+        description: Focus: Free trade, labour rights, and migration
         
       - layout: middle
         title: 10 Year Anniversary of Economy for the Common Good, Salzburg, AT
         caption: 10-October-2020
-        sub_title: Focus: Work for pluralism in economics with Rethinking Economics International
+        description: Focus: Work for pluralism in economics with Rethinking Economics International
         
       - layout: middle
         title: International Conference for Undergraduate Research (ICUR), Coventry, GB
         caption: 24-September-2019
-        sub_title: Focus: Group presentation; Macroeconomics and human rights
+        description: Focus: Group presentation; Macroeconomics and human rights
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
