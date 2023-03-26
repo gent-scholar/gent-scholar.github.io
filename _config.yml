@@ -104,7 +104,7 @@ content:
           My main learnings are: free trade and labour law within NAFTA, Central/North American migration
 
       - layout: top-middle
-        title: Launchpad.AI admission test - NLP DistilBERT ImDB dataset
+        title: NLP DistilBERT IMDb dataset - Launchpad.AI admission test
         link: https://github.com/gent-scholar/NLP-IMDB
         # link_text: Project Website
         additional_links:
@@ -117,8 +117,8 @@ content:
         quote: >
           Launchpad.AI's admission test of sentiment analysis by using a pre-trained DistilBERT model to inference on IMDB dataset. 
         description: | # this will include new lines to allow paragraphs
-          I started this project to contribute to a new data gathering methodology for consumer oil indexes and work towards increased consumer price transparency by collecting Austrian diesel prices real-time using <mark>Python</mark> and <mark>Google Maps API</mark> as well as the Austrian regulator's E-Control website.
-          My main learnings are: NLP, sentiment analysis, Hugging Face, pre-trained DistilBERT model
+          Tackling the sentiment analysis challenge, I used a pre-trained <mark>DistilBERT</mark>, a more efficient, smaller but almost as accurate version of BERT by Hugging Face designed for word completion and applied it to sentiment analysis. 
+          My main learnings are: NLP, sentiment analysis, Hugging Face plattform, pre-trained DistilBERT model
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
