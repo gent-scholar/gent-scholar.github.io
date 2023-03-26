@@ -184,25 +184,31 @@ content:
     content:
       - layout: top-middle
         title: British Conference for Undergraduate Research (BCUR)
+        link: BCUR 2021
+        link_text: https://warwick.ac.uk/fac/soc/economics/news/2021/5/warwick_economics_students_present_their_research_at_bcur_2021/
         sub_title: Leeds, GB
         caption: 13-Apr-2021
         description: |
-            Free trade, labour rights, and migration
+            Title: Free trade, labour rights, and migration
         
       - layout: top-middle
-        title: 10 Year Anniversary of Economy for the Common Good
+        title: 10 Year Anniversary of Economy for the Common Good (ECG)
+        link: https://web.ecogood.org/media/filer_public/98/7b/987bdb6d-0b17-4636-90c4-f8a25ca71c5b/2020_10_12_pi-10-jahre-gwoe-salzburg-nachbericht.pdf
+        link_text: 10 year anniversary conference
         sub_title: Salzburg, AT
         caption: 10-Oct-2020
         description: |
-            Work for pluralism in economics with Rethinking Economics International
+            Title: Work for pluralism in economics with Rethinking Economics International
         
       - layout: top-middle
         title: International Conference for Undergraduate Research (ICUR)
+        link: https://www.icurportal.com/gallery/icur-2019-image-gallery/
+        link_text: ICUR 2019
         sub_title: Coventry, GB
         caption: 24-Sep-2019
         description: |
-            Group presentation: Macroeconomics and human rights
-        #image: 
+            Title: Macroeconomics and human rights
+        image: images/ICUR.jpg
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
