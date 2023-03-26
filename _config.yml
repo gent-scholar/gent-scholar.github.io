@@ -180,7 +180,7 @@ content:
             Finally, I applied econometric spatial inference South African historical spatial mining data utilising <mark>GitHub</mark> for version control and R for first-stage regressions in 2 least squares regressions.
             My main learnings are: spatial data analysis in R, visualisation of spatial data using R and QGIS, version control using Github, instrumental variable identification strategy
    
-  -  title: Conference Presentations # Title for the section
+  - title: Conference Presentations # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: middle
