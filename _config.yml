@@ -169,7 +169,7 @@ content:
         link: https://github.com/Najuh/3_code
         link_text: Unemployment/Self-Employment South Africa - Work in Progress
         sub_title: Research Assistant
-        caption: July 2022 - Dec 2022
+        caption: Jul 2022 - Dec 2022
         quote: >
           Evolving understanding of high unemployment and low self-employment puzzle in South Africa through an historical lens on spatial mining data under Apartheid South Africa.
         description: | # this will include new lines to allow paragraphs
@@ -183,22 +183,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: middle
-        title: British Conference for Undergraduate Research (BCUR), Leeds, GB
-        caption: 13-April-2021
+        title: British Conference for Undergraduate Research (BCUR)
+        sub_title: Leeds, GB
+        caption: 13-Apr-2021
         description: |
             Focus: Free trade, labour rights, and migration
         
       - layout: middle
-        title: 10 Year Anniversary of Economy for the Common Good, Salzburg, AT
-        caption: 10-October-2020
+        title: 10 Year Anniversary of Economy for the Common Good
+        sub_title: Salzburg, AT
+        caption: 10-Oct-2020
         description: |
             Focus: Work for pluralism in economics with Rethinking Economics International
         
       - layout: middle
-        title: International Conference for Undergraduate Research (ICUR), Coventry, GB
-        caption: 24-September-2019
-        description: |
-            Focus: Group presentation; Macroeconomics and human rights
+        title: International Conference for Undergraduate Research (ICUR)
+        sub_title: Coventry, GB
+        caption: 24-Sep-2019
+        description: Focus: Group presentation; Macroeconomics and human rights
+        image: 
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
