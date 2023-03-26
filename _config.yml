@@ -102,7 +102,7 @@ content:
           I am grateful for the research funding granted by the <mark>Undergraduate Research Support Scheme</mark> by the University of Warwick to undertake the research exchange to ITAM, Mexico City.
           Many thanks go to my supervisors for their guidance and expertise: Assoc. Prof. Dr. Stefania Paredes Fuentes, University of Warwick and Dr. Christina Wagner Faegri, ITAM.
           My main learnings are: free trade and labour law within NAFTA, Central/North American migration
-          
+         
        - layout: top-middle
         title: Launchpad.AI admission test - NLP DistilBERT ImDB dataset
         link: https://github.com/gent-scholar/NLP-IMDB
@@ -142,10 +142,12 @@ content:
         sub_title: Research Fellow
         caption: Sep 2021 - Present
         quote: >
-          Fellows will join a network of Mercatus students, alumni, faculty, and scholars who are conducting and engaging with cutting edge research in contemporary political economy.        description: | # this will include new lines to allow paragraphs
+          Fellows join a network of Mercatus students, alumni, faculty, and scholars who are conducting and engaging with cutting edge research in contemporary political economy.        description: | # this will include new lines to allow paragraphs
         description: |
             Don Lavoie Fellowship is a competitive, renewable, and online fellowship program for advanced undergraduates, recent graduates, and early-stage graduate students.
             Fellowships are open to students from any discipline who are interested in studying key ideas in political economy and learning how to utilize these ideas in academic and policy research.
+            Throughout the fellowship I developed policy solutions with field-experts and international fellows to current social, political, and economic issues.
+            My main learnings are: research of policy-making solutions to political, economic, and social challenges
             
      
      - layout: left
@@ -191,7 +193,8 @@ content:
           During my time at Warwick I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
           My courses most relevant to my work included amongst others neural networks, machine learning, advanced macroeconometrics, quality of social science data, time-series econometrics, microeconometrics, mathematical statistics, and game theory.
           I spent my free time establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
-  - title: A Little More About Me
+
+- title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and machine learning some of my other interests and hobbies are:
