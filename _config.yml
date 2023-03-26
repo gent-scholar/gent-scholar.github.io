@@ -102,6 +102,23 @@ content:
           I am grateful for the research funding granted by the <mark>Undergraduate Research Support Scheme</mark> by the University of Warwick to undertake the research exchange to ITAM, Mexico City.
           Many thanks go to my supervisors for their guidance and expertise: Assoc. Prof. Dr. Stefania Paredes Fuentes, University of Warwick and Dr. Christina Wagner Faegri, ITAM.
           My main learnings are: free trade and labour law within NAFTA, Central/North American migration
+          
+       - layout: top-middle
+        title: Launchpad.AI admission test - NLP DistilBERT ImDB dataset
+        link: https://github.com/gent-scholar/NLP-IMDB
+        # link_text: Project Website
+        additional_links:
+          - title:  gent-scholar/ NLP-IMDB
+            icon: fab fa-github
+            url: https://github.com/gent-scholar/fuel-prices
+          # - title:  Github page for project
+          #   icon: fab fa-github
+          #   url: Link to project
+        quote: >
+          Launchpad.AI's admission test of sentiment analysis by using a pre-trained DistilBERT model to inference on IMDB dataset. 
+        description: | # this will include new lines to allow paragraphs
+          I started this project to contribute to a new data gathering methodology for consumer oil indexes and work towards increased consumer price transparency by collecting Austrian diesel prices real-time using <mark>Python</mark> and <mark>Google Maps API</mark> as well as the Austrian regulator's E-Control website.
+          My main learnings are: NLP, sentiment analysis, Hugging Face, pre-trained DistilBERT model
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,7 +130,7 @@ content:
         sub_title: Research Fellow
         caption: January 2023 - Present
         quote: >
-          Solving 21st century problem of land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks managing a team of 4.
+          Protecting biodiversity via land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks managing a team of 4.
         description: | # this will include new lines to allow paragraphs
             The Hawaii Land Trust (HILT) wants to monitor its land for land-use land-cover changes through satellite imagery.
             I lead a team of 4 people training a <mark>Siamese CNN</mark> and fine-tuning it with daily satellite imagery data from Hawaii to apply it to HILT's local environment.
