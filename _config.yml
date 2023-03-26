@@ -103,7 +103,7 @@ content:
           Many thanks go to my supervisors for their guidance and expertise: Assoc. Prof. Dr. Stefania Paredes Fuentes, University of Warwick and Dr. Christina Wagner Faegri, ITAM.
           My main learnings are: free trade and labour law within NAFTA, Central/North American migration
          
-       - layout: top-middle
+      - layout: top-middle
         title: Launchpad.AI admission test - NLP DistilBERT ImDB dataset
         link: https://github.com/gent-scholar/NLP-IMDB
         # link_text: Project Website
