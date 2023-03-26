@@ -184,8 +184,8 @@ content:
     content:
       - layout: top-middle
         title: British Conference for Undergraduate Research (BCUR)
-        link: BCUR 2021
-        link_text: https://warwick.ac.uk/fac/soc/economics/news/2021/5/warwick_economics_students_present_their_research_at_bcur_2021/
+        link: https://warwick.ac.uk/fac/soc/economics/news/2021/5/warwick_economics_students_present_their_research_at_bcur_2021/
+        link_text: BCUR 2021
         sub_title: Leeds, GB
         caption: 13-Apr-2021
         description: |
