@@ -119,6 +119,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project to contribute to a new data gathering methodology for consumer oil indexes and work towards increased consumer price transparency by collecting Austrian diesel prices real-time using <mark>Python</mark> and <mark>Google Maps API</mark> as well as the Austrian regulator's E-Control website.
           My main learnings are: NLP, sentiment analysis, Hugging Face, pre-trained DistilBERT model
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -133,7 +134,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             The Hawaii Land Trust (HILT) wants to monitor its land for land-use land-cover changes through satellite imagery.
             I lead a team of 4 people training a <mark>Siamese CNN</mark> and fine-tuning it with daily satellite imagery data from Hawaii to apply it to HILT's local environment.
-            
+
       - layout: left
         title: Don Lavoie Fellow
         link: https://www.mercatus.org/students/don-lavoie-fellows
@@ -148,8 +149,7 @@ content:
             Throughout the fellowship I developed policy solutions with field-experts and international fellows to current social, political, and economic issues.
             My main learnings are: research of policy-making solutions to political, economic, and social challenges
             
-     
-     - layout: left
+      - layout: left
         title: University of Salzburg and Paracelsus Medical University of Salzburg
         link:
         link_text: Work in Progress
@@ -163,7 +163,7 @@ content:
             Collated, cleaned, and analysed data about attituded to telemedicine in <mark>R</mark>.
             Drafted final report of mixed methods study in English and German leading a team of two.
             My main learnings are: methodology for survey design for data gathering, data analysis in R.
-            
+
       - layout: left
         title: University of Warwick, Department of Economics
         link: https://github.com/Najuh/3_code
