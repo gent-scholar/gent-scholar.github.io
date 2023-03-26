@@ -51,9 +51,9 @@ content:
         link: gent-scholar/FellowshipAI_Change_Detection_Project
         # link_text: Project Website
         additional_links:
-          - title: gent-scholar/FellowshipAI_Change_Detection_Project
+          - title: Change detection for land use land cover
             icon: fab fa-github
-            url: https://github.com/gent-scholar/FellowshipAI_Change_Detection_Project
+            url: https://github.com/gent-scholar/Planet-Labs-Disaster-Data-
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
