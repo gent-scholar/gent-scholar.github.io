@@ -224,6 +224,29 @@ content:
           My courses most relevant to my work included amongst others neural networks, machine learning, advanced macroeconometrics, quality of social science data, time-series econometrics, microeconometrics, mathematical statistics, and game theory.
           I spent my free time establishing and leading the student society *Rethink Economics Warwick* of *Rethinking Economics International* on roles such as *External Relations Officer* and *Co-ordinator* organising many academic talks and panel discussions.
 
+  - title: Grants & Affiliations
+    layout: list
+    content: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Grant recipient at Undergraduate Research Support Scheme (URSS)
+        link: https://warwick.ac.uk/services/skills/urss/
+        link_text: URSS
+        
+      - layout: top-middle
+        title: Don Lavoie Fellow at Mercatus Centre
+        link: https://www.mercatus.org/students/don-lavoie-fellows
+        link_text: Mercatus Centre
+       
+      - layout: top-middle 
+        title: Young Affiliate at Consitutional Economics and Social Philosophy (NOUS)
+        link: https://nous.network/young-affiliates/
+        link_text: NOUS
+        
+      - layout: top-middle 
+        title: Partnership and Strategy officer at Rethinking Economics International (RE Int)
+        link: https://www.rethinkeconomics.org/about/who-we-are/
+        link_text: RE Int
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
