@@ -261,9 +261,9 @@ content:
       - Sailing
       - Sewing
       
-     ICUR 2019 at the University of Warwick
-      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-      ![ICUR](gent-scholar/images/ICUR.jpg "ICUR Conference 2019")
+     # ICUR 2019 at the University of Warwick
+     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+     # ![ICUR](gent-scholar/images/ICUR.jpg "ICUR Conference 2019")
 
 # Footer
 footer_show_references: true
