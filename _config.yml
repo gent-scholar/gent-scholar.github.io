@@ -142,8 +142,8 @@ content:
         sub_title: Research Fellow
         caption: Sep 2021 - Present
         quote: >
-          Fellows join a network of Mercatus students, alumni, faculty, and scholars who are conducting and engaging with cutting edge research in contemporary political economy.        description: | # this will include new lines to allow paragraphs
-        description: |
+          Fellows join a network of Mercatus students, alumni, faculty, and scholars who are conducting and engaging with cutting edge research in contemporary political economy.
+        description: | # this will include new lines to allow paragraphs
             Don Lavoie Fellowship is a competitive, renewable, and online fellowship program for advanced undergraduates, recent graduates, and early-stage graduate students.
             Fellowships are open to students from any discipline who are interested in studying key ideas in political economy and learning how to utilize these ideas in academic and policy research.
             Throughout the fellowship I developed policy solutions with field-experts and international fellows to current social, political, and economic issues.
@@ -208,7 +208,6 @@ content:
         caption: 24-Sep-2019
         description: |
             Title: Macroeconomics and human rights
-        ![ICUR](gent-scholar/images/ICUR.jpg "ICUR Conference 2019")
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -229,22 +228,26 @@ content:
     content:
     
       - layout: top-middle
-        title: Grant recipient at Undergraduate Research Support Scheme (URSS)
+        title: Grant recipient
+        sub_title: Undergraduate Research Support Scheme (URSS)
         link: https://warwick.ac.uk/services/skills/urss/
         link_text: URSS
         
       - layout: top-middle
-        title: Don Lavoie Fellow at Mercatus Centre
+        title: Don Lavoie Fellow
+        sub_title: Mercatus Centre
         link: https://www.mercatus.org/students/don-lavoie-fellows
         link_text: Mercatus Centre
        
       - layout: top-middle 
-        title: Young Affiliate at Consitutional Economics and Social Philosophy (NOUS)
+        title: Young Affiliate
+        sub_title: Consitutional Economics and Social Philosophy (NOUS)
         link: https://nous.network/young-affiliates/
         link_text: NOUS
         
       - layout: top-middle 
-        title: Partnership and Strategy officer at Rethinking Economics International (RE Int)
+        title: Partnership and Strategy Officer
+        sub_title: Rethinking Economics International (RE Int)
         link: https://www.rethinkeconomics.org/about/who-we-are/
         link_text: RE Int
         
@@ -258,8 +261,9 @@ content:
       - Sailing
       - Sewing
       
-     # Look at this cool image  
-     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+     ICUR 2019 at the University of Warwick
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![ICUR](gent-scholar/images/ICUR.jpg "ICUR Conference 2019")
 
 # Footer
 footer_show_references: true
