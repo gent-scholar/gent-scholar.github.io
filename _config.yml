@@ -263,9 +263,9 @@ content:
       - Sailing
       - Sewing
       
-    ICUR 2019 at the University of Warwick
+     # ICUR 2019 at the University of Warwick
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-    ![ICUR](images/ICUR.jpg)
+     # ![ICUR](images/ICUR.jpg)
 
 # Footer
 footer_show_references: true
