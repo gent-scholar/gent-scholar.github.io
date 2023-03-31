@@ -38,9 +38,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Eric and I am a Research Fellow at Launchpad.AI and Research Assistant at the University of Salzburg. As well as researching in social and health sciences myself and in a team I also have experience in computer vision and neural networks. Currently, I am also a Don Lavoie Fellow for Political Economy at the Mercatus Centre, George Mason University and have worked and volunteered at a number of organisations gaining teamwork and leadership skills.
+  Hello, my name is Eric and I am a Research Fellow at [Launchpad.AI](https://www.fellowship.ai/) and Research Assistant at the University of Salzburg.
+  As well as researching in social and medical sciences myself and in a team I also have experience in computer vision and neural networks.
+  Currently, I am also a [Don Lavoie Fellow](https://www.mercatus.org/students/don-lavoie-fellows) at the Mercatus Centre, George Mason University and have worked, researched, and volunteered at a number of organisations gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>Convolutional Neural Networks</mark> and <mark>Computer vision</mark>. 
+  I am most skilled in: <mark>Python; fast.ai & PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>Convolutional Neural Networks</mark> and <mark>Computer vision</mark>. 
 
 content:
   - title: Projects # Title for the section
@@ -51,7 +53,7 @@ content:
         link: gent-scholar/FellowshipAI_Change_Detection_Project
         # link_text: Project Website
         additional_links:
-            - title: Change detection for land use land cover
+            - title: Change detection for land-use land-cover
               icon: fab fa-github
               url: https://github.com/gent-scholar/land-cover-change-detection
             # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -241,7 +243,7 @@ content:
        
       - layout: top-middle 
         title: Young Affiliate
-        sub_title: Consitutional Economics and Social Philosophy (NOUS)
+        sub_title: Constitutional Economics and Social Philosophy (NOUS)
         link: https://nous.network/young-affiliates/
         link_text: NOUS
         
@@ -261,9 +263,9 @@ content:
       - Sailing
       - Sewing
       
-     # ICUR 2019 at the University of Warwick
+    ICUR 2019 at the University of Warwick
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-     # ![ICUR](gent-scholar/images/ICUR.jpg "ICUR Conference 2019")
+    ![ICUR](images/ICUR.jpg)
 
 # Footer
 footer_show_references: true
