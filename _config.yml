@@ -50,7 +50,7 @@ content:
     content:
       - layout: top-middle
         title: Computer vision change detection
-        link: gent-scholar/FellowshipAI_Change_Detection_Project
+        link: https://github.com/FellowshipComputerVision/Change_Detection_Fellowship_Project
         # link_text: Project Website
         additional_links:
             - title: Change detection for land-use land-cover
