@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eric Decker
-title: Research Fellow and Research Assistant
+title: Data Ethics Working Group Member and Quantitative Research Assistant
 email: gentscholar [at] duck [dot] com
 website: https://linktr.ee/ericdecker
 
@@ -40,7 +40,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Eric, currently working in the [Alan Turing Institute Data Ethics Working Group](https://www.turing.ac.uk/research/interest-groups/data-ethics-group) and as a Quantitative Research Assistant for the Paracelsus Medical University of Salzburg and University of Salzburg.
   In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick.
-  I have lead a team of 5 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
+  I have lead a team of 4 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
   Before that I have undertaken Causal Research of South Africa for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
   Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) in social sciences and public policy at the Mercatus Centre, USA and other work, research, and volunteering at a number of organisations have enabled my teamwork and leadership skills.
 
@@ -64,7 +64,7 @@ content:
         quote: >
             Research Fellowship in Data Science & Machine Learning working on computer vision change detection with satellite imagery data for the Hawaii Land Trust.
         description: | # this will include new lines to allow paragraphs
-            I am leading a team of 4 for a project of <mark>computer vision</mark> for the Hawaii Land Trust and implemented a <mark>deep convolutional neural network</mark> for satellite image recognition of <mark>land-use change detection</mark>.
+            I was leading a team of 4 as Scrum Master for a project of <mark>computer vision</mark> for the Hawaii Land Trust and implemented a <mark>deep convolutional neural network</mark> for satellite image recognition of <mark>land-use change detection</mark>.
             Moreover, I presented a research paper and submitted weekly research paper reports for the reading group.
             Further, I co-ordinated my project's weekly demo day presentations by collating information, creating slides, presenting and clarifying issues to senior management.
             My main learnings are: computer vision, change detection using satellite imagery data, convolutional neural networks
@@ -124,49 +124,51 @@ content:
           Tackling the sentiment analysis challenge, I used a pre-trained <mark>DistilBERT</mark>, a more efficient, smaller but almost as accurate version of BERT by Hugging Face designed for word completion and applied it to sentiment analysis. 
           My main learnings are: NLP, sentiment analysis, Hugging Face plattform, pre-trained DistilBERT model
           
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Launchpad.AI
-        link: https://www.fellowship.ai/
-        link_text: fellowship.ai
-        sub_title: Research Fellow
-        caption: January 2023 - Present
-        quote: >
-          Protecting biodiversity via land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks managing a team of 4.
-        description: | # this will include new lines to allow paragraphs
-            The Hawaii Land Trust (HILT) wants to monitor its land for land-use land-cover changes through satellite imagery.
-            I lead a team of 4 people training a <mark>Siamese CNN</mark> and fine-tuning it with daily satellite imagery data from Hawaii to apply it to HILT's local environment.
-
-      - layout: left
-        title: Don Lavoie Fellow
-        link: https://www.mercatus.org/students/don-lavoie-fellows
-        link_text: Don Lavoie Fellowship
-        sub_title: Research Fellow
-        caption: Sep 2021 - Present
-        quote: >
-          Fellows join a network of Mercatus students, alumni, faculty, and scholars who are conducting and engaging with cutting edge research in contemporary political economy.
-        description: | # this will include new lines to allow paragraphs
-            Don Lavoie Fellowship is a competitive, renewable, and online fellowship program for advanced undergraduates, recent graduates, and early-stage graduate students.
-            Fellowships are open to students from any discipline who are interested in studying key ideas in political economy and learning how to utilize these ideas in academic and policy research.
-            Throughout the fellowship I developed policy solutions with field-experts and international fellows to current social, political, and economic issues.
-            My main learnings are: research of policy-making solutions to political, economic, and social challenges
-            
-      - layout: left
         title: University of Salzburg and Paracelsus Medical University of Salzburg
-        link:
+        link: 
         link_text: Work in Progress
         sub_title: Quantitative Research Assistant
         caption: Jun 2021 - Present
         quote: >
           Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
         description: | # this will include new lines to allow paragraphs
-            I am involved in a 4 part process. I undertook experts interview surveys for over 40 medical eperts in DACH countries.
-            Designed balanced and weighted online surveys for 1,500 non-expert surveys in DACH countries.
+            I am involved in a 4 part process. I undertook experts interview surveys for over 40 medical eperts in the German Speaking (DACH) countries.
+            Designed balanced and weighted online surveys of 5,500 people in DACH countries.
             Collated, cleaned, and analysed data about attituded to telemedicine in <mark>R</mark>.
-            Drafted final report of mixed methods study in English and German leading a team of two.
-            My main learnings are: methodology for survey design for data gathering, data analysis in R.
+            Drafted final report of mixed methods study in English and German in a team of 4.
+            My main learnings are: <mark>(qualitative) data gathering</mark> of large-scale medical and technology surveys and expert interviews and their <mark>data analysis in R</mark>.
+            
+      - layout: left
+        title: Launchpad.AI
+        link: https://www.fellowship.ai/
+        link_text: fellowship.ai
+        sub_title: Research Fellow
+        caption: January 2023 - April 2023
+        quote: >
+          Protecting biodiversity via land-use change detection for the Hawaii Land Trust using deep learning convolutional neural networks managing a team of 4.
+        description: | # this will include new lines to allow paragraphs
+            The Hawaii Land Trust (HILT) wants to monitor its land for land-use land-cover changes through satellite imagery.
+            I lead a team of 4 people training a <mark>Siamese CNN</mark> and fine-tuning it with daily satellite imagery data from Hawaii to apply it to HILT's local environment.
+            My main learnings are: implementing in a team <mark>computer vision change detection</mark> with <mark>deep neural networks</mark>.
+
+      - layout: left
+        title: Don Lavoie Fellow
+        link: https://www.mercatus.org/students/don-lavoie-fellows
+        link_text: Don Lavoie Fellowship
+        sub_title: Research Fellow
+        caption: Sep 2021 - June 2023
+        quote: >
+          Fellows join a network of Mercatus students, alumni, faculty, and scholars who are conducting and engaging with cutting edge research in contemporary political economy.
+        description: | # this will include new lines to allow paragraphs
+            Don Lavoie Fellowship is a competitive, renewable, and online fellowship program for advanced undergraduates, recent graduates, and early-stage graduate students.
+            Fellowships are open to students from any discipline who are interested in studying key ideas in political economy and learning how to utilize these ideas in academic and policy research.
+            Throughout the fellowship I developed policy solutions with field-experts and international fellows to current social, political, and economic issues.
+            My main learnings are: developing policy-making solutions to political, economic, and social challenges.
 
       - layout: left
         title: University of Warwick, Department of Economics
@@ -181,11 +183,20 @@ content:
             First, Identified microeconometric instrumental variable strategies for explaining contemporary high unemployment and low self-emplyoment puzzle.
             Then, I visualised innovatively spatial data and maps using <mark>QGIS</mark> and <mark>R</mark>.
             Finally, I applied econometric spatial inference South African historical spatial mining data utilising <mark>GitHub</mark> for version control and R for first-stage regressions in 2 least squares regressions.
-            My main learnings are: spatial data analysis in R, visualisation of spatial data using R and QGIS, version control using Github, instrumental variable identification strategy
+            My main learnings are: spatial data analysis in R, visualisation of spatial data using R and QGIS, version control using Github, instrumental variable identification strategy.
    
   - title: Conference Presentations # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: 20th STOREP Annual Conference  
+        link: https://www.storep.org/wp/en/20th-storep-annual-conference-15-17-june-2023/
+        link_text: STOREP 2023
+        sub_title: Bari, IT
+        caption: 15-17-Jun-2023
+        description: |
+            Title: How are we moving? - a new data gathering approach for consumer oil
+      
       - layout: top-middle
         title: British Conference for Undergraduate Research (BCUR)
         link: https://warwick.ac.uk/fac/soc/economics/news/2021/5/warwick_economics_students_present_their_research_at_bcur_2021/
