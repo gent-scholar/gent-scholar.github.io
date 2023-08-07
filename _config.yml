@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
   In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick.
   I have lead a team of 4 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
   Before that I have undertaken Causal Research of South Africa for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
-  Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) in social sciences and public policy at the Mercatus Centre, USA and other work, research, and volunteering at a number of organisations have enabled my teamwork and leadership skills.
+  Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) at the Mercatus Centre, USA in social sciences and public policy and other work, research, and volunteering experiences at a number of organisations have enabled my teamwork and leadership skills.
 
   I am most skilled in: <mark>Python | fast.ai & PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>QGIS</mark>, <mark>Convolutional Neural Networks</mark>, <mark>Time Series Analysis</mark>, <mark>Computer Vision</mark> and <mark>Spatial Analysis</mark>. 
 
@@ -173,7 +173,7 @@ content:
       - layout: left
         title: University of Warwick, Department of Economics
         link: https://github.com/Najuh/3_code
-        link_text: Unemployment/Self-Employment South Africa - Work in Progress
+        link_text: Unemployment/Self-Employment South Africa
         sub_title: Research Assistant
         caption: Jul 2022 - Dec 2022
         quote: >
