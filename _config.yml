@@ -38,7 +38,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Eric, currently working in the [Alan Turing Institute Data Ethics Working Group](https://www.turing.ac.uk/research/interest-groups/data-ethics-group) and as a Quantitative Research Assistant for the Paracelsus Medical University of Salzburg and University of Salzburg.
+  Hello, my name is Eric, currently working in the [Alan Turing Institute Data Ethics Working Group](https://www.turing.ac.uk/research/interest-groups/data-ethics-group) and as a Quantitative Research Assistant working on Telemedicine for the Paracelsus Medical University of Salzburg and University of Salzburg.
   In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick.
   I have lead a team of 4 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
   Before that I have undertaken Causal Research of South Africa for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
@@ -137,7 +137,7 @@ content:
         quote: >
           Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
         description: | # this will include new lines to allow paragraphs
-            I am involved in a 4 part process. I undertook experts interview surveys for over 40 medical eperts in the German Speaking (DACH) countries.
+            I am involved in a 4 part process. I undertook experts interview surveys for over 40 medical experts in the DACH countries.
             Designed balanced and weighted online surveys of 5,500 people in DACH countries.
             Collated, cleaned, and analysed data about attituded to telemedicine in <mark>R</mark>.
             Drafted final report of mixed methods study in English and German in a team of 4.
