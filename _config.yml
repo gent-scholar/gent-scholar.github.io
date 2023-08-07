@@ -38,10 +38,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Eric, currently working in the [Alan Turing Institute Data Ethics Working Group](https://www.turing.ac.uk/research/interest-groups/data-ethics-group) and a Quantitative Research Assistant for the Paracelsus Medical University of Salzburg and University of Salzburg.
-  Formerly, as a Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/) I have lead a team of 5 people working on computer vision and deep neural networks.
+  Hello, my name is Eric, currently working in the [Alan Turing Institute Data Ethics Working Group](https://www.turing.ac.uk/research/interest-groups/data-ethics-group) and as a Quantitative Research Assistant for the Paracelsus Medical University of Salzburg and University of Salzburg.
+  In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick.
+  I have lead a team of 5 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
   Before that I have undertaken Causal Research of South Africa for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
-  My [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) in social sciences and public policy at the Mercatus Centre, USA and other work, research, and volunteering at a number of organisations have enabled my teamwork and leadership skills.
+  Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) in social sciences and public policy at the Mercatus Centre, USA and other work, research, and volunteering at a number of organisations have enabled my teamwork and leadership skills.
 
   I am most skilled in: <mark>Python | fast.ai & PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>QGIS</mark>, <mark>Convolutional Neural Networks</mark>, <mark>Time Series Analysis</mark>, <mark>Computer Vision</mark> and <mark>Spatial Analysis</mark>. 
 
