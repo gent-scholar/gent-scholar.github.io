@@ -129,16 +129,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
     
-    - layout: left
-      title: The Alan Turing Institute
-      link: https://www.turing.ac.uk/research/interest-groups/data-ethics-group
-      link_text: Data Ethics Group
-      sub_title: Data Ethics Working Group Member
-      caption: Jun 2023 - Present
-      quote: >
-        Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
-      description: | # this will include new lines to allow paragraphs
-          I am jointly establishing The Alan Turing Institute’s position on Foundation Models' regulation in a team of 30 AI and industry experts, forthcoming as a co-author in the Harvard Data Science Review.
+      - layout: left
+        title: The Alan Turing Institute
+        link: https://www.turing.ac.uk/research/interest-groups/data-ethics-group
+        link_text: Data Ethics Group
+        sub_title: Data Ethics Working Group Member
+        caption: Jun 2023 - Present
+        quote: >
+          Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
+        description: | # this will include new lines to allow paragraphs
+            I am jointly establishing The Alan Turing Institute’s position on Foundation Models' regulation in a team of 30 AI and industry experts, forthcoming as a co-author in the Harvard Data Science Review.
      
       - layout: left
         title: University of Salzburg and Paracelsus Medical University of Salzburg
