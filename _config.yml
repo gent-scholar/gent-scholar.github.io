@@ -201,7 +201,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
     
-      - layout: top-middle
+    - layout: top-middle
         title: Organisation of AI in Healthcare Workshop
         link: https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/
         link_text: AI in Healthcare
@@ -209,7 +209,7 @@ content:
         caption: 29-June-2023
         description: |
             Title: AI in Healthcare: A closer look at Interdisciplinarity for Improved Innovation in Future Clinical and Work Practices. 
-      - layout: top-middle
+    - layout: top-middle
         title: 20th STOREP Annual Conference  
         link: https://www.storep.org/wp/en/20th-storep-annual-conference-15-17-june-2023/
         link_text: STOREP 2023
@@ -218,7 +218,7 @@ content:
         description: |
             Title: How are we moving? - a new data gathering approach for consumer oil
       
-      - layout: top-middle
+    - layout: top-middle
         title: British Conference for Undergraduate Research (BCUR)
         link: https://warwick.ac.uk/fac/soc/economics/news/2021/5/warwick_economics_students_present_their_research_at_bcur_2021/
         link_text: BCUR 2021
@@ -227,7 +227,7 @@ content:
         description: |
             Title: Free trade, labour rights, and migration
         
-      - layout: top-middle
+    - layout: top-middle
         title: 10 Year Anniversary of Economy for the Common Good (ECG)
         link: https://web.ecogood.org/media/filer_public/98/7b/987bdb6d-0b17-4636-90c4-f8a25ca71c5b/2020_10_12_pi-10-jahre-gwoe-salzburg-nachbericht.pdf
         link_text: 10 year anniversary conference
@@ -236,7 +236,7 @@ content:
         description: |
             Title: Work for pluralism in economics with Rethinking Economics International
         
-      - layout: top-middle
+    - layout: top-middle
         title: International Conference for Undergraduate Research (ICUR)
         link: https://www.icurportal.com/gallery/icur-2019-image-gallery/
         link_text: ICUR 2019
