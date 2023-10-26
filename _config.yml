@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eric Decker
-title: Data Ethics Working Group Member and Quantitative Data Analyst
+title: Data Ethics Working Group Member and Data Analyst
 email: gentscholar [at] duck [dot] com
 website: https://linktr.ee/ericdecker
 
@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
   Before that I have undertaken Causality Research for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
   Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) at the Mercatus Centre, USA in social sciences and public policy and other work, research, and volunteering experiences at a number of organisations have enabled my teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python | fast.ai & PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>QGIS</mark>, <mark>Convolutional Neural Networks</mark>, <mark>Time Series Analysis</mark>, <mark>Computer Vision</mark> and <mark>Spatial Analysis</mark>. 
+  I am most skilled in: <mark>Python | fast.ai, Transformers, and PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>QGIS</mark>, <mark>Convolutional Neural Networks</mark>, <mark>Time Series Analysis</mark>, <mark>Computer Vision</mark> and <mark>Spatial Analysis</mark>. 
 
 content:
   - title: Projects # Title for the section
