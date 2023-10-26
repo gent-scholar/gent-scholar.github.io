@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eric Decker
-title: Data Ethics Working Group Member and Quantitative Research Assistant
+title: Data Ethics Working Group Member and Quantitative Data Analyst
 email: gentscholar [at] duck [dot] com
 website: https://linktr.ee/ericdecker
 
@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Eric and I am currently a Data Ethics Working Group Member specialising on Foundation Models regulation at [The Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/data-ethics-group), GBR and a Quantitative Research Assistant of telemedicine for the Paracelsus Medical University of Salzburg and University of Salzburg, AUT.
   In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick and we are currently writing up the conference paper.
   I have lead a team of 4 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
-  Before that I have undertaken Causal Research of South Africa for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
+  Before that I have undertaken Causality Research for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
   Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) at the Mercatus Centre, USA in social sciences and public policy and other work, research, and volunteering experiences at a number of organisations have enabled my teamwork and leadership skills.
 
   I am most skilled in: <mark>Python | fast.ai & PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>QGIS</mark>, <mark>Convolutional Neural Networks</mark>, <mark>Time Series Analysis</mark>, <mark>Computer Vision</mark> and <mark>Spatial Analysis</mark>. 
@@ -128,12 +128,22 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: The Alan Turing Institute
+        link: https://www.turing.ac.uk/research/interest-groups/data-ethics-group
+        link_text: Data Ethics Group
+        sub_title: Data Ethics Working Group Member
+        caption: Jun 2023 - Present
+        quote: >
+          Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
+        description: | # this will include new lines to allow paragraphs
+            I am jointly establishing The Alan Turing Institute’s position on Foundation Models' regulation in a team of 30 AI and industry experts, forthcoming as a co-author in the Harvard Data Science Review.
       - layout: left
         title: University of Salzburg and Paracelsus Medical University of Salzburg
         link: 
         link_text: Work in Progress
-        sub_title: Quantitative Research Assistant
-        caption: Jun 2021 - Present
+        sub_title: Quantitative Data Analyst
+        caption: Jun 2021 - Oct 2023
         quote: >
           Advancing telemedicine for a better medical system in German speaking (DACH) countries by analysing needs and wants from medical experts and laypeople. 
         description: | # this will include new lines to allow paragraphs
@@ -188,6 +198,15 @@ content:
   - title: Conference Presentations # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: top-middle
+        title: Organisation of AI in Healthcare Workshop
+        link: https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/
+        link_text: AI in Healthcare
+        sub_title: Coventry, GB
+        caption: 29-June-2023
+        description: |
+            Title: AI in Healthcare: A closer look at Interdisciplinarity for Improved Innovation in Future Clinical and Work Practices. 
       - layout: top-middle
         title: 20th STOREP Annual Conference  
         link: https://www.storep.org/wp/en/20th-storep-annual-conference-15-17-june-2023/
