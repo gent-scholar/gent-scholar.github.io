@@ -202,12 +202,12 @@ content:
     content:
     
     - layout: top-middle
-        title: "Organisation of AI in Healthcare Workshop"
-        link: https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/
-        link_text: AI in Healthcare
-        sub_title: Coventry, GB
-        caption: 29-June-2023
-        description: |
+      title: Organisation of AI in Healthcare Workshop
+      link: https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/
+      link_text: AI in Healthcare
+      sub_title: Coventry, GB
+      caption: 29-June-2023
+      description: |
             Title: AI in Healthcare: A closer look at Interdisciplinarity for Improved Innovation in Future Clinical and Work Practices. 
     
     - layout: top-middle
