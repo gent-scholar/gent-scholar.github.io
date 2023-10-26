@@ -130,7 +130,7 @@ content:
     content:
     
     - layout: left
-        title: The Alan Turing Institute
+        title: "The Alan Turing Institute"
         link: https://www.turing.ac.uk/research/interest-groups/data-ethics-group
         link_text: Data Ethics Group
         sub_title: Data Ethics Working Group Member
