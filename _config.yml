@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eric Decker
-title: Data Ethics Working Group Member and Data Analyst
+title: Data Ethics Working Group Member
 email: gentscholar [at] duck [dot] com
 website: https://linktr.ee/ericdecker
 
@@ -38,7 +38,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Eric and I am currently a Data Ethics Working Group Member specialising on Foundation Models' regulation at [The Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/data-ethics-group), GBR and a Quantitative Research Assistant of telemedicine for the Paracelsus Medical University of Salzburg and University of Salzburg, AUT.
+  Hello, my name is Eric and I am currently a Data Ethics Working Group Member specialising on Foundation Models' regulation at [The Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/data-ethics-group), GBR. Formerly, I was a Data Analyst of telemedicine for the Paracelsus Medical University of Salzburg and University of Salzburg, AUT. //
+  See my current passion project here: [Truthfulness of LLMs](https://github.com/gent-scholar/astra-research-admission) //
   In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick and we are currently writing up the conference paper.
   I have lead a team of 4 people working on computer vision and deep neural networks as a former Machine Learning and AI Research Fellow and Scrum Master at [Launchpad.AI](https://www.fellowship.ai/).
   Before that I have undertaken Causality Research for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
