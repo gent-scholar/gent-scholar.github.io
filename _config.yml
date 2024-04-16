@@ -40,10 +40,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Eric and I am currently a Researcher at the Data Ethics Working Group specialising on Foundation Models' regulation at [The Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/data-ethics-group), GBR with the results forthcoming in the Harvard Data Science Review special issue 4.
   Formerly, I have been a Data Scientist at [Launchpad.AI](https://www.fellowship.ai/), leading a team of 4 people working on computer vision and deep neural networks and Data Research Analyst working with telemedical data for the Paracelsus Medical University of Salzburg and University of Salzburg, AUT.
-  See my current passion project here: [Truthfulness of LLMs](https://github.com/gent-scholar/astra-research-admission). For my short introduction on cool and useful research papers in your everyday life please see my [LinkedIn](https://www.linkedin.com/in/1eric0decker1/).
-  In June, I organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick and we are currently writing up the conference paper.
+  Before that I undertook Causality Research for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
   
-  Before that I have undertaken Causality Research for [Dr. Neil LLoyd](https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/) at Warwick Department of Economics. 
+  See my current passion project here: [Truthfulness of LLMs](https://github.com/gent-scholar/astra-research-admission). For my short introduction on cool and useful research papers in your everyday life please see my [LinkedIn](https://www.linkedin.com/in/1eric0decker1/).
+  I have previously organised the [AI in Healthcare Workshop](https://warwick.ac.uk/research/priorities/productivity/eventsandactvities/aihealthcare/) at the University of Warwick and we are currently writing up the conference paper.  
   Overall, my [Don Lavoie Fellowship](https://www.mercatus.org/students/don-lavoie-fellows) at the Mercatus Centre, USA in social sciences and public policy and other work, research, and volunteering experiences at a number of organisations have enabled my teamwork and leadership skills.
 
   I am most skilled in: <mark>Python | fast.ai, Transformers, and PyTorch</mark>, <mark>R</mark>, <mark>Stata</mark>, <mark>QGIS</mark>, <mark>Convolutional Neural Networks</mark>, <mark>Time Series Analysis</mark>, <mark>Computer Vision</mark> and <mark>Spatial Analysis</mark>. 
